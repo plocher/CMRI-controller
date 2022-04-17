@@ -1,0 +1,76 @@
+#ident "@(#)Makefile	1.4 99/08/18 SBHRS"
+
+HEADERS	=	usic.h port.h rr.h
+
+TESTSOURCES	= \
+		port.cc		\
+		usic.cc		\
+		cards.cc
+TESTOBJECTS	= \
+		port.o		\
+		usic.o		\
+		cards.o
+
+IOTESTSOURCES	=\
+		cards.cc	\
+		sbhrs.cc	\
+		outbuf.cc
+
+IOTESTOBJECTS	=\
+		cards.o		\
+		sbhrs.o		\
+		outbuf.o
+
+
+SOURCES	=	\
+		assigndr.cc	\
+		autoad.cc	\
+		cabdir.cc	\
+		keyboard.cc	\
+		outbuf.cc	\
+		panic.cc	\
+		cards.cc	\
+		port.cc		\
+		usic.cc		\
+		rropbfsc.cc	\
+		rroperat.cc	\
+		signal.cc	\
+		turnout.cc	\
+		sbhrs.cc	\
+		crossenv.cc	\
+		log.cc
+
+OBJECTS	=	\
+		assigndr.o	\
+		autoad.o	\
+		cabdir.o	\
+		keyboard.o	\
+		outbuf.o	\
+		panic.o		\
+		cards.o		\
+		port.o		\
+		usic.o		\
+		rropbfsc.o	\
+		rroperat.o	\
+		signal.o	\
+		sbhrs.o		\
+		turnout.o	\
+		crossenv.o	\
+		log.o
+
+all:	rr
+
+clean:
+	rm -f *.o t rr
+
+io:	$(HEADERS) $(IOTESTSOURCES) $(IOTESTOBJECTS) iotest.o
+	$(CCC) -o io iotest.o $(IOTESTOBJECTS) $(LDLIBS) -lcurses
+
+t:	$(HEADERS) $(TESTSOURCES) $(TESTOBJECTS) test.o
+	$(CCC) -o t test.o $(TESTOBJECTS) $(LDLIBS) -lcurses
+
+
+rr:	$(HEADERS) $(SOURCES) $(OBJECTS) rroperat.o 
+	$(CCC) -o rr $(OBJECTS) $(LDLIBS) -lcurses
+
+

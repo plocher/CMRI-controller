@@ -1,0 +1,1734 @@
+C/MRI I/O Worksheet for I/O assignments for SBHRS
+NumberInputCards  18
+NumberOutputCards 46
+NumberCardSets    16
+NumberOutputPorts 138
+NumberInputPorts  54
+Card #  0  Input  (1)
+----------------------
+Card i 0:24    Panel     4 (NC) Drop button
+Card i 0:23    Panel     5 (NC) Drop button
+Card i 0:22    Panel     6 (NC) Drop button
+Card i 0:21    Panel     2 (NC) Mainline  Thumbwheel Port (bit0)
+Card i 0:20    Panel     2 (NC) Mainline  Thumbwheel Port (bit1)
+Card i 0:19    Panel     1 (NC) Mainline  Thumbwheel Port (bit1)
+Card i 0:18    Panel     1 (NC) Mainline  Thumbwheel Port (bit0)
+Card i 0:17    Panel     6 (NC) Assign button
+Card i 0:16    Panel     5 (NC) Assign button
+Card i 0:15    Panel     3 Drop button
+Card i 0:14    Panel     2 (NC) Drop button
+Card i 0:13    Panel     1 (NC) Drop button
+Card i 0:12    Panel     4 (NC) Mainline  Thumbwheel Port (bit1)
+Card i 0:11    Panel     4 (NC) Mainline  Thumbwheel Port (bit0)
+Card i 0:10    Panel     3 Mainline  Thumbwheel Port (bit1)
+Card i 0:09    Panel     3 Mainline  Thumbwheel Port (bit0)
+Card i 0:08    Panel     5 (NC) Mainline  Thumbwheel Port (bit0)
+Card i 0:07    Panel     5 (NC) Mainline  Thumbwheel Port (bit1)
+Card i 0:06    Panel     6 (NC) Mainline  Thumbwheel Port (bit0)
+Card i 0:05    Panel     6 (NC) Mainline  Thumbwheel Port (bit1)
+Card i 0:04    Panel     1 (NC) Assign button
+Card i 0:03    Panel     2 (NC) Assign button
+Card i 0:02    Panel     3 Assign button
+Card i 0:01    Panel     4 (NC) Assign button
+
+Card #  1  Input  (2)
+----------------------
+Card i 1:24    Panel     6 (NC) 10s Digit Thumbwheel Port (bit1)
+Card i 1:23    Panel     1 (NC)  1s Digit Thumbwheel Port (bit0)
+Card i 1:22    Panel     1 (NC)  1s Digit Thumbwheel Port (bit1)
+Card i 1:21    Panel     1 (NC)  1s Digit Thumbwheel Port (bit2)
+Card i 1:20    Panel     1 (NC)  1s Digit Thumbwheel Port (bit3)
+Card i 1:19    Panel     4 (NC) 10s Digit Thumbwheel Port (bit1)
+Card i 1:18    Panel     4 (NC) 10s Digit Thumbwheel Port (bit0)
+Card i 1:17    Panel     3 10s Digit Thumbwheel Port (bit1)
+Card i 1:16    Panel     3 10s Digit Thumbwheel Port (bit0)
+Card i 1:15    Panel     6 (NC) 10s Digit Thumbwheel Port (bit0)
+Card i 1:14    Panel     5 (NC) 10s Digit Thumbwheel Port (bit1)
+Card i 1:13    Panel     5 (NC) 10s Digit Thumbwheel Port (bit0)
+Card i 1:12    Panel     2 (NC)  1s Digit Thumbwheel Port (bit3)
+Card i 1:11    Panel     2 (NC)  1s Digit Thumbwheel Port (bit2)
+Card i 1:10    Panel     2 (NC)  1s Digit Thumbwheel Port (bit1)
+Card i 1:09    Panel     2 (NC)  1s Digit Thumbwheel Port (bit0)
+Card i 1:08    Panel     3  1s Digit Thumbwheel Port (bit0)
+Card i 1:07    Panel     3  1s Digit Thumbwheel Port (bit1)
+Card i 1:06    Panel     3  1s Digit Thumbwheel Port (bit2)
+Card i 1:05    Panel     3  1s Digit Thumbwheel Port (bit3)
+Card i 1:04    Panel     1 (NC) 10s Digit Thumbwheel Port (bit0)
+Card i 1:03    Panel     1 (NC) 10s Digit Thumbwheel Port (bit1)
+Card i 1:02    Panel     2 (NC) 10s Digit Thumbwheel Port (bit0)
+Card i 1:01    Panel     2 (NC) 10s Digit Thumbwheel Port (bit1)
+
+Card #  2  Input  (3)
+----------------------
+Card i 2:24    Panel     6 (NC)  1s Digit Thumbwheel Port (bit3)
+Card i 2:23    Panel     1 (NC) CabNumber Thumbwheel Port (bit0)
+Card i 2:22    Panel     1 (NC) CabNumber Thumbwheel Port (bit1)
+Card i 2:21    Panel     1 (NC) CabNumber Thumbwheel Port (bit2)
+Card i 2:20    _________
+Card i 2:19    Panel     5 (NC)  1s Digit Thumbwheel Port (bit3)
+Card i 2:18    Panel     5 (NC)  1s Digit Thumbwheel Port (bit2)
+Card i 2:17    Panel     5 (NC)  1s Digit Thumbwheel Port (bit1)
+Card i 2:16    Panel     5 (NC)  1s Digit Thumbwheel Port (bit0)
+Card i 2:15    Panel     6 (NC)  1s Digit Thumbwheel Port (bit2)
+Card i 2:14    Panel     6 (NC)  1s Digit Thumbwheel Port (bit1)
+Card i 2:13    Panel     6 (NC)  1s Digit Thumbwheel Port (bit0)
+Card i 2:12    Panel     3 CabNumber Thumbwheel Port (bit0)
+Card i 2:11    Panel     2 (NC) CabNumber Thumbwheel Port (bit2)
+Card i 2:10    Panel     2 (NC) CabNumber Thumbwheel Port (bit1)
+Card i 2:09    Panel     2 (NC) CabNumber Thumbwheel Port (bit0)
+Card i 2:08    Panel     3 CabNumber Thumbwheel Port (bit1)
+Card i 2:07    Panel     3 CabNumber Thumbwheel Port (bit2)
+Card i 2:06    _________
+Card i 2:05    _________
+Card i 2:04    Panel     4 (NC)  1s Digit Thumbwheel Port (bit0)
+Card i 2:03    Panel     4 (NC)  1s Digit Thumbwheel Port (bit1)
+Card i 2:02    Panel     4 (NC)  1s Digit Thumbwheel Port (bit2)
+Card i 2:01    Panel     4 (NC)  1s Digit Thumbwheel Port (bit3)
+
+Card #  3  Input  (4)
+----------------------
+Card i 3:24    _________
+Card i 3:23    _________
+Card i 3:22    _________
+Card i 3:21    _________
+Card i 3:20    _________
+Card i 3:19    _________
+Card i 3:18    _________
+Card i 3:17    Panel     5 (NC) CabNumber Thumbwheel Port (bit2)
+Card i 3:16    Panel     5 (NC) CabNumber Thumbwheel Port (bit1)
+Card i 3:15    Panel     6 (NC) CabNumber Thumbwheel Port (bit2)
+Card i 3:14    Panel     6 (NC) CabNumber Thumbwheel Port (bit1)
+Card i 3:13    Panel     6 (NC) CabNumber Thumbwheel Port (bit0)
+Card i 3:12    Turnout * 1 Position [mot: o01:05(C:7), man: i05:24(B:3)]
+Card i 3:11    Turnout * 4 Position [mot: o01:06(C:6), man: i05:15(B:2)]
+Card i 3:10    Turnout * 5 Position [mot: o01:20(B:7), man: i05:14(B:1)]
+Card i 3:09    Turnout * 6 Position [mot: o01:21(B:6), man: i05:13(B:0)]
+Card i 3:08    Turnout  25 Position [mot: o02:18(D:6), man: i05:23(B:4)]
+Card i 3:07    Turnout  26 Position [mot: o02:19(D:7), man: i05:22(B:5)]
+Card i 3:06    Turnout  27 Position [mot: o02:21(A:6), man: i05:21(B:6)]
+Card i 3:05    Turnout  28 Position [mot: o02:20(A:7), man: i05:20(B:7)]
+Card i 3:04    Panel     4 (NC) CabNumber Thumbwheel Port (bit0)
+Card i 3:03    Panel     4 (NC) CabNumber Thumbwheel Port (bit1)
+Card i 3:02    Panel     4 (NC) CabNumber Thumbwheel Port (bit2)
+Card i 3:01    Panel     5 (NC) CabNumber Thumbwheel Port (bit0)
+
+Card #  4  Input  (5)
+----------------------
+Card i 4:24    Turnout * 2 Position [mot: o05:05(C:7), man: i06:01(D:3)]
+Card i 4:23    Turnout  32 Position [mot: o06:18(D:6), man: i06:16(D:4)]
+Card i 4:22    Turnout  23 Position [mot: o06:19(D:7), man: i06:17(D:5)]
+Card i 4:21    Turnout  33 Position [mot: o06:21(A:6), man: i06:18(D:6)]
+Card i 4:20    Turnout  34 Position [mot: o06:20(A:7), man: i06:19(D:7)]
+Card i 4:19    Turnout  28 Manual   [mot: o02:20(A:7), pos: i05:19(A:7)]
+Card i 4:18    Turnout  27 Manual   [mot: o02:21(A:6), pos: i05:18(A:6)]
+Card i 4:17    Turnout  26 Manual   [mot: o02:19(D:7), pos: i05:17(A:5)]
+Card i 4:16    Turnout  25 Manual   [mot: o02:18(D:6), pos: i05:16(A:4)]
+Card i 4:15    Turnout * 3 Position [mot: o05:06(C:6), man: i06:02(D:2)]
+Card i 4:14    Turnout   9 Position [mot: o05:20(B:7), man: i06:03(D:1)]
+Card i 4:13    Turnout * 8 Position [mot: o05:21(B:6), man: i06:04(D:0)]
+Card i 4:12    Turnout * 2 Manual   [mot: o05:05(C:7), pos: i05:12(C:3)]
+Card i 4:11    Turnout * 3 Manual   [mot: o05:06(C:6), pos: i05:11(C:2)]
+Card i 4:10    Turnout   9 Manual   [mot: o05:20(B:7), pos: i05:10(C:1)]
+Card i 4:09    Turnout * 8 Manual   [mot: o05:21(B:6), pos: i05:09(C:0)]
+Card i 4:08    Turnout  32 Manual   [mot: o06:18(D:6), pos: i05:08(C:4)]
+Card i 4:07    Turnout  23 Manual   [mot: o06:19(D:7), pos: i05:07(C:5)]
+Card i 4:06    Turnout  33 Manual   [mot: o06:21(A:6), pos: i05:06(C:6)]
+Card i 4:05    Turnout  34 Manual   [mot: o06:20(A:7), pos: i05:05(C:7)]
+Card i 4:04    Turnout * 6 Manual   [mot: o01:21(B:6), pos: i05:04(A:0)]
+Card i 4:03    Turnout * 5 Manual   [mot: o01:20(B:7), pos: i05:03(A:1)]
+Card i 4:02    Turnout * 4 Manual   [mot: o01:06(C:6), pos: i05:02(A:2)]
+Card i 4:01    Turnout * 1 Manual   [mot: o01:05(C:7), pos: i05:01(A:3)]
+
+Card #  5  Input  (6)
+----------------------
+Card i 5:24    Turnout  46 Position [mot: o12:05(D:7), man: i07:24(D:3)]
+Card i 5:23    Turnout  47 Position [mot: o13:18(A:6), man: i07:23(D:4)]
+Card i 5:22    Turnout  48 Position [mot: o13:19(A:7), man: i07:22(D:5)]
+Card i 5:21    Turnout  31 Position [mot: o13:21(B:6), man: i07:21(D:6)]
+Card i 5:20    Turnout  11 Position [mot: o13:20(B:7), man: i07:20(D:7)]
+Card i 5:19    Turnout  42 Position [mot: o12:19(B:7), man: i07:19(C:7)]
+Card i 5:18    Turnout  41 Position [mot: o12:18(B:6), man: i07:18(C:6)]
+Card i 5:17    Turnout  40 Position [mot: o11:05(A:7), man: i07:17(C:5)]
+Card i 5:16    Turnout  39 Position [mot: o11:06(A:6), man: i07:16(C:4)]
+Card i 5:15    Turnout  45 Position [mot: o12:06(D:6), man: i07:15(D:2)]
+Card i 5:14    Turnout  44 Position [mot: o12:20(C:7), man: i07:14(D:1)]
+Card i 5:13    Turnout  43 Position [mot: o12:21(C:6), man: i07:13(D:0)]
+Card i 5:12    Turnout  38 Manual   [mot: o11:20(D:7), pos: i06:24(A:3)]
+Card i 5:11    Turnout  37 Manual   [mot: o11:21(D:6), pos: i06:15(A:2)]
+Card i 5:10    Turnout  36 Manual   [mot: o11:19(C:7), pos: i06:14(A:1)]
+Card i 5:09    Turnout  35 Manual   [mot: o11:18(C:6), pos: i06:13(A:0)]
+Card i 5:08    Turnout  39 Manual   [mot: o11:06(A:6), pos: i06:23(A:4)]
+Card i 5:07    Turnout  40 Manual   [mot: o11:05(A:7), pos: i06:22(A:5)]
+Card i 5:06    Turnout  41 Manual   [mot: o12:18(B:6), pos: i06:21(A:6)]
+Card i 5:05    Turnout  42 Manual   [mot: o12:19(B:7), pos: i06:20(A:7)]
+Card i 5:04    Turnout  35 Position [mot: o11:18(C:6), man: i07:04(C:0)]
+Card i 5:03    Turnout  36 Position [mot: o11:19(C:7), man: i07:03(C:1)]
+Card i 5:02    Turnout  37 Position [mot: o11:21(D:6), man: i07:02(C:2)]
+Card i 5:01    Turnout  38 Position [mot: o11:20(D:7), man: i07:01(C:3)]
+
+Card #  6  Input  (7)
+----------------------
+Card i 6:24    Detector  4 (block 104)
+Card i 6:23    Detector  5 (block 105)
+Card i 6:22    Detector  6 (block 106)
+Card i 6:21    Detector  7 (block 107)
+Card i 6:20    Detector  8 (block 108)
+Card i 6:19    Turnout  11 Manual   [mot: o13:20(B:7), pos: i06:05(B:7)]
+Card i 6:18    Turnout  31 Manual   [mot: o13:21(B:6), pos: i06:06(B:6)]
+Card i 6:17    Turnout  48 Manual   [mot: o13:19(A:7), pos: i06:07(B:5)]
+Card i 6:16    Turnout  47 Manual   [mot: o13:18(A:6), pos: i06:08(B:4)]
+Card i 6:15    Detector  3 (block 103)
+Card i 6:14    Detector  2 (block 102)
+Card i 6:13    Detector  1 (block 101)
+Card i 6:12    Detector 12 (block 112)
+Card i 6:11    Detector 11 (block 111)
+Card i 6:10    Detector 10 (block 110)
+Card i 6:09    Detector  9 (block 109)
+Card i 6:08    Detector 13 (block 113)
+Card i 6:07    Detector 14 (block 114)
+Card i 6:06    Detector 15 (block 115)
+Card i 6:05    Detector 16 (block 116)
+Card i 6:04    Turnout  43 Manual   [mot: o12:21(C:6), pos: i06:09(B:0)]
+Card i 6:03    Turnout  44 Manual   [mot: o12:20(C:7), pos: i06:10(B:1)]
+Card i 6:02    Turnout  45 Manual   [mot: o12:06(D:6), pos: i06:11(B:2)]
+Card i 6:01    Turnout  46 Manual   [mot: o12:05(D:7), pos: i06:12(B:3)]
+
+Card #  7  Input  (8)
+----------------------
+Card i 7:24    SubBlock  9 (turnout 0, block 14/99)
+Card i 7:23    SubBlock 10 (turnout 0, block 14/99)
+Card i 7:22    Detector 49 (block 401)
+Card i 7:21    Detector 50 (block 402)
+Card i 7:20    Detector 51 (block 403)
+Card i 7:19    SubBlock  5 (turnout 0, block 18/99)
+Card i 7:18    SubBlock  4 (turnout 0, block 17/99)
+Card i 7:17    SubBlock  3 (turnout 0, block 17/99)
+Card i 7:16    SubBlock  2 (turnout 0, block 1/99)
+Card i 7:15    SubBlock  8 (turnout 0, block 19/99)
+Card i 7:14    SubBlock  7 (turnout 0, block 19/99)
+Card i 7:13    SubBlock  6 (turnout 0, block 18/99)
+Card i 7:12    Detector 55 (block 407)
+Card i 7:11    Detector 54 (block 406)
+Card i 7:10    Detector 53 (block 405)
+Card i 7:09    Detector 52 (block 404)
+Card i 7:08    Detector 56 (block 408)
+Card i 7:07    Detector 57 (block 411)
+Card i 7:06    Detector 58 (block 412)
+Card i 7:05    Detector 59 (block 413)
+Card i 7:04    Detector 17 (block 117)
+Card i 7:03    Detector 18 (block 118)
+Card i 7:02    Detector 19 (block 119)
+Card i 7:01    SubBlock  1 (turnout 0, block 1/99)
+
+Card #  8  Input  (9)
+----------------------
+Card i 8:24    _________
+Card i 8:23    _________
+Card i 8:22    _________
+Card i 8:21    _________
+Card i 8:20    _________
+Card i 8:19    Detector 72 (block 308)
+Card i 8:18    Detector 71 (block 307)
+Card i 8:17    Detector 70 (block 306)
+Card i 8:16    Detector 69 (block 305)
+Card i 8:15    _________
+Card i 8:14    _________
+Card i 8:13    _________
+Card i 8:12    _________
+Card i 8:11    _________
+Card i 8:10    _________
+Card i 8:09    _________
+Card i 8:08    _________
+Card i 8:07    _________
+Card i 8:06    _________
+Card i 8:05    _________
+Card i 8:04    Detector 65 (block 301)
+Card i 8:03    Detector 66 (block 302)
+Card i 8:02    Detector 67 (block 303)
+Card i 8:01    Detector 68 (block 304)
+
+Card #  9  Input  (10)
+----------------------
+Card i 9:24    _________
+Card i 9:23    _________
+Card i 9:22    _________
+Card i 9:21    _________
+Card i 9:20    _________
+Card i 9:19    _________
+Card i 9:18    _________
+Card i 9:17    _________
+Card i 9:16    _________
+Card i 9:15    _________
+Card i 9:14    _________
+Card i 9:13    _________
+Card i 9:12    _________
+Card i 9:11    _________
+Card i 9:10    _________
+Card i 9:09    _________
+Card i 9:08    _________
+Card i 9:07    _________
+Card i 9:06    _________
+Card i 9:05    _________
+Card i 9:04    _________
+Card i 9:03    _________
+Card i 9:02    _________
+Card i 9:01    _________
+
+Card # 10  Input  (11)
+----------------------
+Card i10:24    Detector 36 (block 212)
+Card i10:23    Detector 37 (block 213)
+Card i10:22    Detector 38 (block 214)
+Card i10:21    Detector 39 (block 215)
+Card i10:20    Detector 40 (block 216)
+Card i10:19    Detector 32 (block 208)
+Card i10:18    Detector 31 (block 207)
+Card i10:17    Detector 30 (block 206)
+Card i10:16    Detector 29 (block 205)
+Card i10:15    Detector 35 (block 211)
+Card i10:14    Detector 34 (block 210)
+Card i10:13    Detector 33 (block 209)
+Card i10:12    _________
+Card i10:11    Detector 43 (block 219)
+Card i10:10    Detector 42 (block 218)
+Card i10:09    Detector 41 (block 217)
+Card i10:08    _________
+Card i10:07    _________
+Card i10:06    _________
+Card i10:05    _________
+Card i10:04    Detector 25 (block 201)
+Card i10:03    Detector 26 (block 202)
+Card i10:02    Detector 27 (block 203)
+Card i10:01    Detector 28 (block 204)
+
+Card # 11  Input  (12)
+----------------------
+Card i11:24    SubBlock 12 (turnout 0, block 52/99)
+Card i11:23    SubBlock 13 (turnout 0, block 54/99)
+Card i11:22    SubBlock 14 (turnout 0, block 54/99)
+Card i11:21    SubBlock 15 (turnout 0, block 57/99)
+Card i11:20    SubBlock 16 (turnout 0, block 57/99)
+Card i11:19    Detector 62 (block 416)
+Card i11:18    Detector 61 (block 415)
+Card i11:17    Detector 60 (block 414)
+Card i11:16    _________
+Card i11:15    SubBlock 11 (turnout 0, block 52/99)
+Card i11:14    Detector 64 (block 418)
+Card i11:13    Detector 63 (block 417)
+Card i11:12    SubBlock 20 (turnout 0, block 59/99)
+Card i11:11    SubBlock 19 (turnout 0, block 59/99)
+Card i11:10    SubBlock 18 (turnout 0, block 58/99)
+Card i11:09    SubBlock 17 (turnout 0, block 58/99)
+Card i11:08    SubBlock 21 (turnout 0, block 60/99)
+Card i11:07    SubBlock 22 (turnout 0, block 60/99)
+Card i11:06    SubBlock 23 (turnout 0, block 61/99)
+Card i11:05    SubBlock 24 (turnout 0, block 61/99)
+Card i11:04    _________
+Card i11:03    _________
+Card i11:02    _________
+Card i11:01    _________
+
+Card # 12  Input  (13)
+----------------------
+Card i12:24    SubBlock 28 (turnout 0, block 63/99)
+Card i12:23    SubBlock 29 (turnout 0, block 64/99)
+Card i12:22    SubBlock 30 (turnout 0, block 64/99)
+Card i12:21    _________
+Card i12:20    _________
+Card i12:19    _________
+Card i12:18    Throttle  7 Direction
+Card i12:17    Throttle  6 Direction
+Card i12:16    Throttle  5 Direction
+Card i12:15    SubBlock 27 (turnout 0, block 63/99)
+Card i12:14    SubBlock 26 (turnout 0, block 62/99)
+Card i12:13    SubBlock 25 (turnout 0, block 62/99)
+Card i12:12    Detector 22 (block 122)
+Card i12:11    Detector 21 (block 121)
+Card i12:10    Detector 20 (block 120)
+Card i12:09    _________
+Card i12:08    Detector 23 (block 123)
+Card i12:07    Detector 24 (block 123)
+Card i12:06    Detector 44 (block 220)
+Card i12:05    Detector 45 (block 221)
+Card i12:04    Throttle  1 Direction
+Card i12:03    Throttle  2 Direction
+Card i12:02    Throttle  3 Direction
+Card i12:01    Throttle  4 Direction
+
+Card # 13  Input  (14)
+----------------------
+Card i13:24    _________
+Card i13:23    _________
+Card i13:22    _________
+Card i13:21    _________
+Card i13:20    _________
+Card i13:19    _________
+Card i13:18    _________
+Card i13:17    _________
+Card i13:16    _________
+Card i13:15    _________
+Card i13:14    _________
+Card i13:13    _________
+Card i13:12    _________
+Card i13:11    _________
+Card i13:10    _________
+Card i13:09    _________
+Card i13:08    _________
+Card i13:07    _________
+Card i13:06    _________
+Card i13:05    _________
+Card i13:04    Detector 46 (block 222)
+Card i13:03    Detector 47 (block 223)
+Card i13:02    Detector 48 (block 223)
+Card i13:01    _________
+
+Card # 14  Input  (15)
+----------------------
+Card i14:24    Turnout   7 Position [mot: o15:01(C:3), man: i16:01(B:3)]
+Card i14:23    Turnout  12 Position [mot: o15:16(C:4), man: i16:16(B:4)]
+Card i14:22    Turnout  19 Position [mot: o15:17(C:5), man: i16:17(B:5)]
+Card i14:21    Turnout  29 Position [mot: o15:18(C:6), man: i16:18(B:6)]
+Card i14:20    Turnout  30 Position [mot: o15:19(C:7), man: i16:19(B:7)]
+Card i14:19    Throttle  7 PushButton
+Card i14:18    Throttle  6 PushButton
+Card i14:17    Throttle  5 PushButton
+Card i14:16    Throttle  4 PushButton
+Card i14:15    Turnout  15 Position [mot: o15:02(C:2), man: i16:02(B:2)]
+Card i14:14    Turnout  13 Position [mot: o15:03(C:1), man: i16:03(B:1)]
+Card i14:13    Turnout  14 Position [mot: o15:04(C:0), man: i16:04(B:0)]
+Card i14:12    Turnout   7 Manual   [mot: o15:01(C:3), pos: i15:12(A:3)]
+Card i14:11    Turnout  15 Manual   [mot: o15:02(C:2), pos: i15:11(A:2)]
+Card i14:10    Turnout  13 Manual   [mot: o15:03(C:1), pos: i15:10(A:1)]
+Card i14:09    Turnout  14 Manual   [mot: o15:04(C:0), pos: i15:09(A:0)]
+Card i14:08    Turnout  12 Manual   [mot: o15:16(C:4), pos: i15:08(A:4)]
+Card i14:07    Turnout  19 Manual   [mot: o15:17(C:5), pos: i15:07(A:5)]
+Card i14:06    Turnout  29 Manual   [mot: o15:18(C:6), pos: i15:06(A:6)]
+Card i14:05    Turnout  30 Manual   [mot: o15:19(C:7), pos: i15:05(A:7)]
+Card i14:04    _________
+Card i14:03    Throttle  1 PushButton
+Card i14:02    Throttle  2 PushButton
+Card i14:01    Throttle  3 PushButton
+
+Card # 15  Input  (16)
+----------------------
+Card i15:24    _________
+Card i15:23    _________
+Card i15:22    _________
+Card i15:21    _________
+Card i15:20    _________
+Card i15:19    _________
+Card i15:18    _________
+Card i15:17    _________
+Card i15:16    _________
+Card i15:15    _________
+Card i15:14    _________
+Card i15:13    _________
+Card i15:12    _________
+Card i15:11    _________
+Card i15:10    _________
+Card i15:09    _________
+Card i15:08    _________
+Card i15:07    _________
+Card i15:06    _________
+Card i15:05    _________
+Card i15:04    _________
+Card i15:03    _________
+Card i15:02    _________
+Card i15:01    _________
+
+Card # 16  Input  (17)
+----------------------
+Card i16:24    _________
+Card i16:23    _________
+Card i16:22    _________
+Card i16:21    _________
+Card i16:20    _________
+Card i16:19    _________
+Card i16:18    _________
+Card i16:17    _________
+Card i16:16    _________
+Card i16:15    _________
+Card i16:14    _________
+Card i16:13    _________
+Card i16:12    _________
+Card i16:11    _________
+Card i16:10    _________
+Card i16:09    _________
+Card i16:08    _________
+Card i16:07    _________
+Card i16:06    _________
+Card i16:05    _________
+Card i16:04    _________
+Card i16:03    _________
+Card i16:02    _________
+Card i16:01    _________
+
+Card # 17  Input  (18)
+----------------------
+Card i17:24    _________
+Card i17:23    _________
+Card i17:22    _________
+Card i17:21    _________
+Card i17:20    _________
+Card i17:19    _________
+Card i17:18    _________
+Card i17:17    _________
+Card i17:16    _________
+Card i17:15    _________
+Card i17:14    _________
+Card i17:13    _________
+Card i17:12    _________
+Card i17:11    _________
+Card i17:10    _________
+Card i17:09    _________
+Card i17:08    _________
+Card i17:07    _________
+Card i17:06    _________
+Card i17:05    _________
+Card i17:04    _________
+Card i17:03    _________
+Card i17:02    _________
+Card i17:01    _________
+
+Card # 18 Output (1)
+----------------------
+Card o18:24 (1)Block   104 CabRelay card (bit0)
+Card o18:23 (1)Block   104 CabRelay card (bit1)
+Card o18:22 (1)Block   104 CabRelay card (bit2)
+Card o18:21 (0)Turnout   4 Motor    [pos: i05:02(A:2), man: i05:15(B:2)]
+Card o18:20 (0)Turnout   1 Motor    [pos: i05:01(A:3), man: i05:24(B:3)]
+Card o18:19 (0)Turnout   5 Motor    [pos: i05:03(A:1), man: i05:14(B:1)]
+Card o18:18 (0)Turnout   6 Motor    [pos: i05:04(A:0), man: i05:13(B:0)]
+Card o18:17 (1)Block   102 CabRelay card (bit2)
+Card o18:16 (1)Block   102 CabRelay card (bit1)
+Card o18:15 (1)Block   103 CabRelay card (bit2)
+Card o18:14 (1)Block   103 CabRelay card (bit1)
+Card o18:13 (1)Block   103 CabRelay card (bit0)
+Card o18:12 (1)Block   106 CabRelay card (bit0)
+Card o18:11 (1)Block   105 CabRelay card (bit2)
+Card o18:10 (1)Block   105 CabRelay card (bit1)
+Card o18:09 (1)Block   105 CabRelay card (bit0)
+Card o18:08 (1)Block   106 CabRelay card (bit1)
+Card o18:07 (1)Block   106 CabRelay card (bit2)
+Card o18:06 (0)Turnout  25 Motor    [pos: i05:16(A:4), man: i05:23(B:4)]
+Card o18:05 (0)Turnout  26 Motor    [pos: i05:17(A:5), man: i05:22(B:5)]
+Card o18:04 (1)Block   101 CabRelay card (bit0)
+Card o18:03 (1)Block   101 CabRelay card (bit1)
+Card o18:02 (1)Block   101 CabRelay card (bit2)
+Card o18:01 (1)Block   102 CabRelay card (bit0)
+
+Card # 19 Output (2)
+----------------------
+Card o19:24 (1)Block   110 CabRelay card (bit0)
+Card o19:23 (1)Block   110 CabRelay card (bit1)
+Card o19:22 (1)Block   110 CabRelay card (bit2)
+Card o19:21 (0)_________
+Card o19:20 (0)_________
+Card o19:19 (0)Turnout  28 Motor    [pos: i05:19(A:7), man: i05:20(B:7)]
+Card o19:18 (0)Turnout  27 Motor    [pos: i05:18(A:6), man: i05:21(B:6)]
+Card o19:17 (1)Block   108 CabRelay card (bit2)
+Card o19:16 (1)Block   108 CabRelay card (bit1)
+Card o19:15 (1)Block   109 CabRelay card (bit2)
+Card o19:14 (1)Block   109 CabRelay card (bit1)
+Card o19:13 (1)Block   109 CabRelay card (bit0)
+Card o19:12 (1)Block   112 CabRelay card (bit0)
+Card o19:11 (1)Block   111 CabRelay card (bit2)
+Card o19:10 (1)Block   111 CabRelay card (bit1)
+Card o19:09 (1)Block   111 CabRelay card (bit0)
+Card o19:08 (1)Block   112 CabRelay card (bit1)
+Card o19:07 (1)Block   112 CabRelay card (bit2)
+Card o19:06 (0)_________
+Card o19:05 (0)_________
+Card o19:04 (1)Block   107 CabRelay card (bit0)
+Card o19:03 (1)Block   107 CabRelay card (bit1)
+Card o19:02 (1)Block   107 CabRelay card (bit2)
+Card o19:01 (1)Block   108 CabRelay card (bit0)
+
+Card # 20 Output (3)
+----------------------
+Card o20:24 (1)Block   116 CabRelay card (bit0)
+Card o20:23 (1)Block   116 CabRelay card (bit1)
+Card o20:22 (1)Block   116 CabRelay card (bit2)
+Card o20:21 (1)Panel     1 (NC) Buzzer
+Card o20:20 (1)Panel     2 (NC) Buzzer
+Card o20:19 (0)_________
+Card o20:18 (0)_________
+Card o20:17 (1)Block   114 CabRelay card (bit2)
+Card o20:16 (1)Block   114 CabRelay card (bit1)
+Card o20:15 (1)Block   115 CabRelay card (bit2)
+Card o20:14 (1)Block   115 CabRelay card (bit1)
+Card o20:13 (1)Block   115 CabRelay card (bit0)
+Card o20:12 (1)Block   118 CabRelay card (bit0)
+Card o20:11 (1)Block   117 CabRelay card (bit2)
+Card o20:10 (1)Block   117 CabRelay card (bit1)
+Card o20:09 (1)Block   117 CabRelay card (bit0)
+Card o20:08 (1)Block   118 CabRelay card (bit1)
+Card o20:07 (1)Block   118 CabRelay card (bit2)
+Card o20:06 (1)Panel     3 Buzzer
+Card o20:05 (1)Panel     4 (NC) Buzzer
+Card o20:04 (1)Block   113 CabRelay card (bit0)
+Card o20:03 (1)Block   113 CabRelay card (bit1)
+Card o20:02 (1)Block   113 CabRelay card (bit2)
+Card o20:01 (1)Block   114 CabRelay card (bit0)
+
+Card # 21 Output (4)
+----------------------
+Card o21:24 (1)Block   403 CabRelay card (bit0)
+Card o21:23 (1)Block   403 CabRelay card (bit1)
+Card o21:22 (1)Block   403 CabRelay card (bit2)
+Card o21:21 (0)_________
+Card o21:20 (0)_________
+Card o21:19 (1)Panel     6 (NC) Buzzer
+Card o21:18 (1)Panel     5 (NC) Buzzer
+Card o21:17 (1)Block   401 CabRelay card (bit2)
+Card o21:16 (1)Block   401 CabRelay card (bit1)
+Card o21:15 (1)Block   402 CabRelay card (bit2)
+Card o21:14 (1)Block   402 CabRelay card (bit1)
+Card o21:13 (1)Block   402 CabRelay card (bit0)
+Card o21:12 (1)Block   405 CabRelay card (bit0)
+Card o21:11 (1)Block   404 CabRelay card (bit2)
+Card o21:10 (1)Block   404 CabRelay card (bit1)
+Card o21:09 (1)Block   404 CabRelay card (bit0)
+Card o21:08 (1)Block   405 CabRelay card (bit1)
+Card o21:07 (1)Block   405 CabRelay card (bit2)
+Card o21:06 (0)_________
+Card o21:05 (0)_________
+Card o21:04 (1)Block   119 CabRelay card (bit0)
+Card o21:03 (1)Block   119 CabRelay card (bit1)
+Card o21:02 (1)Block   119 CabRelay card (bit2)
+Card o21:01 (1)Block   401 CabRelay card (bit0)
+
+Card # 22 Output (5)
+----------------------
+Card o22:24 (1)Block   204 CabRelay card (bit0)
+Card o22:23 (1)Block   204 CabRelay card (bit1)
+Card o22:22 (1)Block   204 CabRelay card (bit2)
+Card o22:21 (0)Turnout   3 Motor    [pos: i05:11(C:2), man: i06:02(D:2)]
+Card o22:20 (0)Turnout   2 Motor    [pos: i05:12(C:3), man: i06:01(D:3)]
+Card o22:19 (0)Turnout   9 Motor    [pos: i05:10(C:1), man: i06:03(D:1)]
+Card o22:18 (0)Turnout   8 Motor    [pos: i05:09(C:0), man: i06:04(D:0)]
+Card o22:17 (1)Block   202 CabRelay card (bit2)
+Card o22:16 (1)Block   202 CabRelay card (bit1)
+Card o22:15 (1)Block   203 CabRelay card (bit2)
+Card o22:14 (1)Block   203 CabRelay card (bit1)
+Card o22:13 (1)Block   203 CabRelay card (bit0)
+Card o22:12 (1)Block   206 CabRelay card (bit0)
+Card o22:11 (1)Block   205 CabRelay card (bit2)
+Card o22:10 (1)Block   205 CabRelay card (bit1)
+Card o22:09 (1)Block   205 CabRelay card (bit0)
+Card o22:08 (1)Block   206 CabRelay card (bit1)
+Card o22:07 (1)Block   206 CabRelay card (bit2)
+Card o22:06 (0)Turnout  32 Motor    [pos: i05:08(C:4), man: i06:16(D:4)]
+Card o22:05 (0)Turnout  23 Motor    [pos: i05:07(C:5), man: i06:17(D:5)]
+Card o22:04 (1)Block   201 CabRelay card (bit0)
+Card o22:03 (1)Block   201 CabRelay card (bit1)
+Card o22:02 (1)Block   201 CabRelay card (bit2)
+Card o22:01 (1)Block   202 CabRelay card (bit0)
+
+Card # 23 Output (6)
+----------------------
+Card o23:24 (1)Block   210 CabRelay card (bit0)
+Card o23:23 (1)Block   210 CabRelay card (bit1)
+Card o23:22 (1)Block   210 CabRelay card (bit2)
+Card o23:21 (0)_________
+Card o23:20 (0)_________
+Card o23:19 (0)Turnout  34 Motor    [pos: i05:05(C:7), man: i06:19(D:7)]
+Card o23:18 (0)Turnout  33 Motor    [pos: i05:06(C:6), man: i06:18(D:6)]
+Card o23:17 (1)Block   208 CabRelay card (bit2)
+Card o23:16 (1)Block   208 CabRelay card (bit1)
+Card o23:15 (1)Block   209 CabRelay card (bit2)
+Card o23:14 (1)Block   209 CabRelay card (bit1)
+Card o23:13 (1)Block   209 CabRelay card (bit0)
+Card o23:12 (1)Block   212 CabRelay card (bit0)
+Card o23:11 (1)Block   211 CabRelay card (bit2)
+Card o23:10 (1)Block   211 CabRelay card (bit1)
+Card o23:09 (1)Block   211 CabRelay card (bit0)
+Card o23:08 (1)Block   212 CabRelay card (bit1)
+Card o23:07 (1)Block   212 CabRelay card (bit2)
+Card o23:06 (0)Throttle  1 LED
+Card o23:05 (0)Throttle  2 LED
+Card o23:04 (1)Block   207 CabRelay card (bit0)
+Card o23:03 (1)Block   207 CabRelay card (bit1)
+Card o23:02 (1)Block   207 CabRelay card (bit2)
+Card o23:01 (1)Block   208 CabRelay card (bit0)
+
+Card # 24 Output (7)
+----------------------
+Card o24:24 (1)Block   216 CabRelay card (bit0)
+Card o24:23 (1)Block   216 CabRelay card (bit1)
+Card o24:22 (1)Block   216 CabRelay card (bit2)
+Card o24:21 (0)Throttle  5 LED
+Card o24:20 (0)Throttle  6 LED
+Card o24:19 (0)Throttle  4 LED
+Card o24:18 (0)Throttle  3 LED
+Card o24:17 (1)Block   214 CabRelay card (bit2)
+Card o24:16 (1)Block   214 CabRelay card (bit1)
+Card o24:15 (1)Block   215 CabRelay card (bit2)
+Card o24:14 (1)Block   215 CabRelay card (bit1)
+Card o24:13 (1)Block   215 CabRelay card (bit0)
+Card o24:12 (1)Block   218 CabRelay card (bit0)
+Card o24:11 (1)Block   217 CabRelay card (bit2)
+Card o24:10 (1)Block   217 CabRelay card (bit1)
+Card o24:09 (1)Block   217 CabRelay card (bit0)
+Card o24:08 (1)Block   218 CabRelay card (bit1)
+Card o24:07 (1)Block   218 CabRelay card (bit2)
+Card o24:06 (0)Throttle  7 LED
+Card o24:05 (0)_________
+Card o24:04 (1)Block   213 CabRelay card (bit0)
+Card o24:03 (1)Block   213 CabRelay card (bit1)
+Card o24:02 (1)Block   213 CabRelay card (bit2)
+Card o24:01 (1)Block   214 CabRelay card (bit0)
+
+Card # 25 Output (8)
+----------------------
+Card o25:24 (1)Block   408 CabRelay card (bit0)
+Card o25:23 (1)Block   408 CabRelay card (bit1)
+Card o25:22 (1)Block   408 CabRelay card (bit2)
+Card o25:21 (0)_________
+Card o25:20 (0)_________
+Card o25:19 (0)_________
+Card o25:18 (0)_________
+Card o25:17 (1)Block   406 CabRelay card (bit2)
+Card o25:16 (1)Block   406 CabRelay card (bit1)
+Card o25:15 (1)Block   407 CabRelay card (bit2)
+Card o25:14 (1)Block   407 CabRelay card (bit1)
+Card o25:13 (1)Block   407 CabRelay card (bit0)
+Card o25:12 (1)Block   412 CabRelay card (bit0)
+Card o25:11 (1)Block   411 CabRelay card (bit2)
+Card o25:10 (1)Block   411 CabRelay card (bit1)
+Card o25:09 (1)Block   411 CabRelay card (bit0)
+Card o25:08 (1)Block   412 CabRelay card (bit1)
+Card o25:07 (1)Block   412 CabRelay card (bit2)
+Card o25:06 (0)_________
+Card o25:05 (0)_________
+Card o25:04 (1)Block   219 CabRelay card (bit0)
+Card o25:03 (1)Block   219 CabRelay card (bit1)
+Card o25:02 (1)Block   219 CabRelay card (bit2)
+Card o25:01 (1)Block   406 CabRelay card (bit0)
+
+Card # 26 Output (9)
+----------------------
+Card o26:24 (0)_________
+Card o26:23 (0)_________
+Card o26:22 (0)_________
+Card o26:21 (0)_________
+Card o26:20 (0)_________
+Card o26:19 (0)_________
+Card o26:18 (0)_________
+Card o26:17 (0)_________
+Card o26:16 (0)_________
+Card o26:15 (0)_________
+Card o26:14 (0)_________
+Card o26:13 (0)_________
+Card o26:12 (0)Block   414 CabRelay card (bit0)
+Card o26:11 (0)Block   413 CabRelay card (bit2)
+Card o26:10 (0)Block   413 CabRelay card (bit1)
+Card o26:09 (0)Block   413 CabRelay card (bit0)
+Card o26:08 (0)Block   414 CabRelay card (bit1)
+Card o26:07 (0)Block   414 CabRelay card (bit2)
+Card o26:06 (0)_________
+Card o26:05 (0)_________
+Card o26:04 (0)_________
+Card o26:03 (0)_________
+Card o26:02 (0)_________
+Card o26:01 (0)_________
+
+Card # 27 Output (10)
+----------------------
+Card o27:24 (1)Block   418 CabRelay card (bit0)
+Card o27:23 (1)Block   418 CabRelay card (bit1)
+Card o27:22 (1)Block   418 CabRelay card (bit2)
+Card o27:21 (0)_________
+Card o27:20 (0)_________
+Card o27:19 (0)_________
+Card o27:18 (0)_________
+Card o27:17 (1)Block   416 CabRelay card (bit2)
+Card o27:16 (1)Block   416 CabRelay card (bit1)
+Card o27:15 (1)Block   417 CabRelay card (bit2)
+Card o27:14 (1)Block   417 CabRelay card (bit1)
+Card o27:13 (1)Block   417 CabRelay card (bit0)
+Card o27:12 (1)Block   302 CabRelay card (bit0)
+Card o27:11 (1)Block   301 CabRelay card (bit2)
+Card o27:10 (1)Block   301 CabRelay card (bit1)
+Card o27:09 (1)Block   301 CabRelay card (bit0)
+Card o27:08 (1)Block   302 CabRelay card (bit1)
+Card o27:07 (1)Block   302 CabRelay card (bit2)
+Card o27:06 (0)Turnout  35 Motor    [pos: i06:13(A:0), man: i07:04(C:0)]
+Card o27:05 (0)Turnout  36 Motor    [pos: i06:14(A:1), man: i07:03(C:1)]
+Card o27:04 (1)Block   415 CabRelay card (bit0)
+Card o27:03 (1)Block   415 CabRelay card (bit1)
+Card o27:02 (1)Block   415 CabRelay card (bit2)
+Card o27:01 (1)Block   416 CabRelay card (bit0)
+
+Card # 28 Output (11)
+----------------------
+Card o28:24 (1)Block   306 CabRelay card (bit0)
+Card o28:23 (1)Block   306 CabRelay card (bit1)
+Card o28:22 (1)Block   306 CabRelay card (bit2)
+Card o28:21 (0)Turnout  39 Motor    [pos: i06:23(A:4), man: i07:16(C:4)]
+Card o28:20 (0)Turnout  40 Motor    [pos: i06:22(A:5), man: i07:17(C:5)]
+Card o28:19 (0)Turnout  38 Motor    [pos: i06:24(A:3), man: i07:01(C:3)]
+Card o28:18 (0)Turnout  37 Motor    [pos: i06:15(A:2), man: i07:02(C:2)]
+Card o28:17 (1)Block   304 CabRelay card (bit2)
+Card o28:16 (1)Block   304 CabRelay card (bit1)
+Card o28:15 (1)Block   305 CabRelay card (bit2)
+Card o28:14 (1)Block   305 CabRelay card (bit1)
+Card o28:13 (1)Block   305 CabRelay card (bit0)
+Card o28:12 (1)Block   308 CabRelay card (bit0)
+Card o28:11 (1)Block   307 CabRelay card (bit2)
+Card o28:10 (1)Block   307 CabRelay card (bit1)
+Card o28:09 (1)Block   307 CabRelay card (bit0)
+Card o28:08 (1)Block   308 CabRelay card (bit1)
+Card o28:07 (1)Block   308 CabRelay card (bit2)
+Card o28:06 (0)Turnout  41 Motor    [pos: i06:21(A:6), man: i07:18(C:6)]
+Card o28:05 (0)Turnout  42 Motor    [pos: i06:20(A:7), man: i07:19(C:7)]
+Card o28:04 (1)Block   303 CabRelay card (bit0)
+Card o28:03 (1)Block   303 CabRelay card (bit1)
+Card o28:02 (1)Block   303 CabRelay card (bit2)
+Card o28:01 (1)Block   304 CabRelay card (bit0)
+
+Card # 29 Output (12)
+----------------------
+Card o29:24 (1)_________
+Card o29:23 (1)_________
+Card o29:22 (1)_________
+Card o29:21 (0)Turnout  45 Motor    [pos: i06:11(B:2), man: i07:15(D:2)]
+Card o29:20 (0)Turnout  46 Motor    [pos: i06:12(B:3), man: i07:24(D:3)]
+Card o29:19 (0)Turnout  44 Motor    [pos: i06:10(B:1), man: i07:14(D:1)]
+Card o29:18 (0)Turnout  43 Motor    [pos: i06:09(B:0), man: i07:13(D:0)]
+Card o29:17 (1)_________
+Card o29:16 (1)_________
+Card o29:15 (1)_________
+Card o29:14 (1)_________
+Card o29:13 (1)_________
+Card o29:12 (1)_________
+Card o29:11 (1)_________
+Card o29:10 (1)_________
+Card o29:09 (1)_________
+Card o29:08 (1)_________
+Card o29:07 (1)_________
+Card o29:06 (0)Turnout  47 Motor    [pos: i06:08(B:4), man: i07:23(D:4)]
+Card o29:05 (0)Turnout  48 Motor    [pos: i06:07(B:5), man: i07:22(D:5)]
+Card o29:04 (1)_________
+Card o29:03 (1)_________
+Card o29:02 (1)_________
+Card o29:01 (1)_________
+
+Card # 30 Output (13)
+----------------------
+Card o30:24 (1)_________
+Card o30:23 (1)_________
+Card o30:22 (1)_________
+Card o30:21 (0)_________
+Card o30:20 (0)_________
+Card o30:19 (0)Turnout  11 Motor    [pos: i06:05(B:7), man: i07:20(D:7)]
+Card o30:18 (0)Turnout  31 Motor    [pos: i06:06(B:6), man: i07:21(D:6)]
+Card o30:17 (1)_________
+Card o30:16 (1)_________
+Card o30:15 (1)_________
+Card o30:14 (1)_________
+Card o30:13 (1)_________
+Card o30:12 (1)_________
+Card o30:11 (1)_________
+Card o30:10 (1)_________
+Card o30:09 (1)_________
+Card o30:08 (1)_________
+Card o30:07 (1)_________
+Card o30:06 (0)_________
+Card o30:05 (0)_________
+Card o30:04 (1)_________
+Card o30:03 (1)_________
+Card o30:02 (1)_________
+Card o30:01 (1)_________
+
+Card # 31 Output (14)
+----------------------
+Card o31:24 (1)Block   120 CabRelay card (bit0)
+Card o31:23 (1)Block   120 CabRelay card (bit1)
+Card o31:22 (1)Block   120 CabRelay card (bit2)
+Card o31:21 (0)_________
+Card o31:20 (0)_________
+Card o31:19 (0)_________
+Card o31:18 (0)_________
+Card o31:17 (0)_________
+Card o31:16 (0)_________
+Card o31:15 (1)_________
+Card o31:14 (1)_________
+Card o31:13 (1)_________
+Card o31:12 (1)Turnout   7 Motor    [pos: i15:12(A:3), man: i16:01(B:3)]
+Card o31:11 (1)Turnout  15 Motor    [pos: i15:11(A:2), man: i16:02(B:2)]
+Card o31:10 (1)Turnout  13 Motor    [pos: i15:10(A:1), man: i16:03(B:1)]
+Card o31:09 (1)Turnout  14 Motor    [pos: i15:09(A:0), man: i16:04(B:0)]
+Card o31:08 (1)Turnout  12 Motor    [pos: i15:08(A:4), man: i16:16(B:4)]
+Card o31:07 (1)Turnout  19 Motor    [pos: i15:07(A:5), man: i16:17(B:5)]
+Card o31:06 (0)Turnout  29 Motor    [pos: i15:06(A:6), man: i16:18(B:6)]
+Card o31:05 (0)Turnout  30 Motor    [pos: i15:05(A:7), man: i16:19(B:7)]
+Card o31:04 (0)Block   222 CabRelay card (bit0)
+Card o31:03 (0)Block   222 CabRelay card (bit1)
+Card o31:02 (0)Block   222 CabRelay card (bit2)
+Card o31:01 (0)_________
+
+Card # 32 Output (15)
+----------------------
+Card o32:24 (0)_________
+Card o32:23 (0)_________
+Card o32:22 (0)_________
+Card o32:21 (0)_________
+Card o32:20 (0)_________
+Card o32:19 (0)_________
+Card o32:18 (0)_________
+Card o32:17 (0)_________
+Card o32:16 (0)_________
+Card o32:15 (0)_________
+Card o32:14 (0)_________
+Card o32:13 (0)_________
+Card o32:12 (0)_________
+Card o32:11 (0)_________
+Card o32:10 (0)_________
+Card o32:09 (0)_________
+Card o32:08 (0)_________
+Card o32:07 (0)_________
+Card o32:06 (0)_________
+Card o32:05 (0)_________
+Card o32:04 (0)_________
+Card o32:03 (0)_________
+Card o32:02 (0)_________
+Card o32:01 (0)_________
+
+Card # 33 Output (16)
+----------------------
+Card o33:24 (0)_________
+Card o33:23 (0)_________
+Card o33:22 (0)_________
+Card o33:21 (0)_________
+Card o33:20 (0)_________
+Card o33:19 (0)_________
+Card o33:18 (0)_________
+Card o33:17 (0)_________
+Card o33:16 (0)_________
+Card o33:15 (0)_________
+Card o33:14 (0)_________
+Card o33:13 (0)_________
+Card o33:12 (0)_________
+Card o33:11 (0)_________
+Card o33:10 (0)_________
+Card o33:09 (0)_________
+Card o33:08 (0)_________
+Card o33:07 (0)_________
+Card o33:06 (0)_________
+Card o33:05 (0)_________
+Card o33:04 (0)_________
+Card o33:03 (0)_________
+Card o33:02 (0)_________
+Card o33:01 (0)_________
+
+Card # 34 Output (17)
+----------------------
+Card o34:24 (0)_________
+Card o34:23 (0)_________
+Card o34:22 (0)_________
+Card o34:21 (0)_________
+Card o34:20 (0)_________
+Card o34:19 (0)_________
+Card o34:18 (0)_________
+Card o34:17 (0)_________
+Card o34:16 (0)_________
+Card o34:15 (0)_________
+Card o34:14 (0)_________
+Card o34:13 (0)_________
+Card o34:12 (0)_________
+Card o34:11 (0)_________
+Card o34:10 (0)_________
+Card o34:09 (0)_________
+Card o34:08 (0)_________
+Card o34:07 (0)_________
+Card o34:06 (0)_________
+Card o34:05 (0)_________
+Card o34:04 (0)_________
+Card o34:03 (0)_________
+Card o34:02 (0)_________
+Card o34:01 (0)_________
+
+Card # 35 Output (18)
+----------------------
+Card o35:24 (0)_________
+Card o35:23 (0)_________
+Card o35:22 (0)_________
+Card o35:21 (0)_________
+Card o35:20 (0)_________
+Card o35:19 (0)_________
+Card o35:18 (0)_________
+Card o35:17 (0)_________
+Card o35:16 (0)_________
+Card o35:15 (0)_________
+Card o35:14 (0)_________
+Card o35:13 (0)_________
+Card o35:12 (0)_________
+Card o35:11 (0)_________
+Card o35:10 (0)_________
+Card o35:09 (0)_________
+Card o35:08 (0)_________
+Card o35:07 (0)_________
+Card o35:06 (0)_________
+Card o35:05 (0)_________
+Card o35:04 (0)_________
+Card o35:03 (0)_________
+Card o35:02 (0)_________
+Card o35:01 (0)_________
+
+Card # 36 Output (19)
+----------------------
+Card o36:24 (0)_________
+Card o36:23 (0)_________
+Card o36:22 (0)_________
+Card o36:21 (0)_________
+Card o36:20 (0)_________
+Card o36:19 (0)_________
+Card o36:18 (0)_________
+Card o36:17 (0)_________
+Card o36:16 (0)_________
+Card o36:15 (0)_________
+Card o36:14 (0)_________
+Card o36:13 (0)_________
+Card o36:12 (0)_________
+Card o36:11 (0)_________
+Card o36:10 (0)_________
+Card o36:09 (0)_________
+Card o36:08 (0)_________
+Card o36:07 (0)_________
+Card o36:06 (0)_________
+Card o36:05 (0)_________
+Card o36:04 (0)_________
+Card o36:03 (0)_________
+Card o36:02 (0)_________
+Card o36:01 (0)_________
+
+Card # 37 Output (20)
+----------------------
+Card o37:24 (0)_________
+Card o37:23 (0)_________
+Card o37:22 (0)_________
+Card o37:21 (0)_________
+Card o37:20 (0)_________
+Card o37:19 (0)_________
+Card o37:18 (0)_________
+Card o37:17 (0)_________
+Card o37:16 (0)_________
+Card o37:15 (0)_________
+Card o37:14 (0)_________
+Card o37:13 (0)_________
+Card o37:12 (0)_________
+Card o37:11 (0)_________
+Card o37:10 (0)_________
+Card o37:09 (0)_________
+Card o37:08 (0)_________
+Card o37:07 (0)_________
+Card o37:06 (0)_________
+Card o37:05 (0)_________
+Card o37:04 (0)_________
+Card o37:03 (0)_________
+Card o37:02 (0)_________
+Card o37:01 (0)_________
+
+Card # 38 Output (21)
+----------------------
+Card o38:24 (0)_________
+Card o38:23 (0)_________
+Card o38:22 (0)_________
+Card o38:21 (0)_________
+Card o38:20 (0)_________
+Card o38:19 (0)_________
+Card o38:18 (0)_________
+Card o38:17 (0)_________
+Card o38:16 (0)_________
+Card o38:15 (0)_________
+Card o38:14 (0)_________
+Card o38:13 (0)_________
+Card o38:12 (0)_________
+Card o38:11 (0)_________
+Card o38:10 (0)_________
+Card o38:09 (0)_________
+Card o38:08 (0)_________
+Card o38:07 (0)_________
+Card o38:06 (0)_________
+Card o38:05 (0)_________
+Card o38:04 (0)_________
+Card o38:03 (0)_________
+Card o38:02 (0)_________
+Card o38:01 (0)_________
+
+Card # 39 Output (22)
+----------------------
+Card o39:24 (0)_________
+Card o39:23 (0)_________
+Card o39:22 (0)_________
+Card o39:21 (0)_________
+Card o39:20 (0)_________
+Card o39:19 (0)_________
+Card o39:18 (0)_________
+Card o39:17 (0)_________
+Card o39:16 (0)_________
+Card o39:15 (0)_________
+Card o39:14 (0)_________
+Card o39:13 (0)_________
+Card o39:12 (0)_________
+Card o39:11 (0)_________
+Card o39:10 (0)_________
+Card o39:09 (0)_________
+Card o39:08 (0)_________
+Card o39:07 (0)_________
+Card o39:06 (0)_________
+Card o39:05 (0)_________
+Card o39:04 (0)_________
+Card o39:03 (0)_________
+Card o39:02 (0)_________
+Card o39:01 (0)_________
+
+Card # 40 Output (23)
+----------------------
+Card o40:24 (0)_________
+Card o40:23 (0)_________
+Card o40:22 (0)_________
+Card o40:21 (0)_________
+Card o40:20 (0)_________
+Card o40:19 (0)_________
+Card o40:18 (0)_________
+Card o40:17 (0)_________
+Card o40:16 (0)_________
+Card o40:15 (0)_________
+Card o40:14 (0)_________
+Card o40:13 (0)_________
+Card o40:12 (0)_________
+Card o40:11 (0)_________
+Card o40:10 (0)_________
+Card o40:09 (0)_________
+Card o40:08 (0)_________
+Card o40:07 (0)_________
+Card o40:06 (0)_________
+Card o40:05 (0)_________
+Card o40:04 (0)_________
+Card o40:03 (0)_________
+Card o40:02 (0)_________
+Card o40:01 (0)_________
+
+Card # 41 Output (24)
+----------------------
+Card o41:24 (0)_________
+Card o41:23 (0)_________
+Card o41:22 (0)_________
+Card o41:21 (0)_________
+Card o41:20 (0)_________
+Card o41:19 (0)_________
+Card o41:18 (0)_________
+Card o41:17 (0)_________
+Card o41:16 (0)_________
+Card o41:15 (0)_________
+Card o41:14 (0)_________
+Card o41:13 (0)_________
+Card o41:12 (0)_________
+Card o41:11 (0)_________
+Card o41:10 (0)_________
+Card o41:09 (0)_________
+Card o41:08 (0)_________
+Card o41:07 (0)_________
+Card o41:06 (0)_________
+Card o41:05 (0)_________
+Card o41:04 (0)_________
+Card o41:03 (0)_________
+Card o41:02 (0)_________
+Card o41:01 (0)_________
+
+Card # 42 Output (25)
+----------------------
+Card o42:24 (1)_________
+Card o42:23 (1)_________
+Card o42:22 (1)_________
+Card o42:21 (1)_________
+Card o42:20 (1)_________
+Card o42:19 (0)_________
+Card o42:18 (0)_________
+Card o42:17 (0)_________
+Card o42:16 (0)_________
+Card o42:15 (1)_________
+Card o42:14 (1)_________
+Card o42:13 (1)_________
+Card o42:12 (1)_________
+Card o42:11 (1)_________
+Card o42:10 (1)_________
+Card o42:09 (1)_________
+Card o42:08 (1)_________
+Card o42:07 (1)_________
+Card o42:06 (1)_________
+Card o42:05 (1)_________
+Card o42:04 (0)_________
+Card o42:03 (0)_________
+Card o42:02 (0)_________
+Card o42:01 (0)_________
+
+Card # 43 Output (26)
+----------------------
+Card o43:24 (1)_________
+Card o43:23 (1)_________
+Card o43:22 (1)_________
+Card o43:21 (1)_________
+Card o43:20 (1)_________
+Card o43:19 (0)_________
+Card o43:18 (0)_________
+Card o43:17 (0)_________
+Card o43:16 (0)_________
+Card o43:15 (1)_________
+Card o43:14 (1)_________
+Card o43:13 (1)_________
+Card o43:12 (1)_________
+Card o43:11 (1)_________
+Card o43:10 (1)_________
+Card o43:09 (1)_________
+Card o43:08 (1)_________
+Card o43:07 (1)_________
+Card o43:06 (1)_________
+Card o43:05 (1)_________
+Card o43:04 (0)_________
+Card o43:03 (0)_________
+Card o43:02 (0)_________
+Card o43:01 (0)_________
+
+Card # 44 Output (27)
+----------------------
+Card o44:24 (1)_________
+Card o44:23 (1)_________
+Card o44:22 (1)_________
+Card o44:21 (1)_________
+Card o44:20 (1)_________
+Card o44:19 (0)_________
+Card o44:18 (0)_________
+Card o44:17 (0)_________
+Card o44:16 (0)_________
+Card o44:15 (1)_________
+Card o44:14 (1)_________
+Card o44:13 (1)_________
+Card o44:12 (1)_________
+Card o44:11 (1)_________
+Card o44:10 (1)_________
+Card o44:09 (1)_________
+Card o44:08 (1)_________
+Card o44:07 (1)_________
+Card o44:06 (1)_________
+Card o44:05 (1)_________
+Card o44:04 (0)_________
+Card o44:03 (0)_________
+Card o44:02 (0)_________
+Card o44:01 (0)_________
+
+Card # 45 Output (28)
+----------------------
+Card o45:24 (0)_________
+Card o45:23 (0)_________
+Card o45:22 (0)_________
+Card o45:21 (0)_________
+Card o45:20 (0)_________
+Card o45:19 (0)_________
+Card o45:18 (0)_________
+Card o45:17 (0)_________
+Card o45:16 (0)_________
+Card o45:15 (0)_________
+Card o45:14 (0)_________
+Card o45:13 (0)_________
+Card o45:12 (0)_________
+Card o45:11 (0)_________
+Card o45:10 (0)_________
+Card o45:09 (0)_________
+Card o45:08 (0)_________
+Card o45:07 (0)_________
+Card o45:06 (0)_________
+Card o45:05 (0)_________
+Card o45:04 (0)_________
+Card o45:03 (0)_________
+Card o45:02 (0)_________
+Card o45:01 (0)_________
+
+Card # 46 Output (29)
+----------------------
+Card o46:24 (0)_________
+Card o46:23 (0)_________
+Card o46:22 (0)_________
+Card o46:21 (0)_________
+Card o46:20 (0)_________
+Card o46:19 (0)_________
+Card o46:18 (0)_________
+Card o46:17 (0)_________
+Card o46:16 (0)_________
+Card o46:15 (0)_________
+Card o46:14 (0)_________
+Card o46:13 (0)_________
+Card o46:12 (0)_________
+Card o46:11 (0)_________
+Card o46:10 (0)_________
+Card o46:09 (0)_________
+Card o46:08 (0)_________
+Card o46:07 (0)_________
+Card o46:06 (0)_________
+Card o46:05 (0)_________
+Card o46:04 (0)_________
+Card o46:03 (0)_________
+Card o46:02 (0)_________
+Card o46:01 (0)_________
+
+Card # 47 Output (30)
+----------------------
+Card o47:24 (0)_________
+Card o47:23 (0)_________
+Card o47:22 (0)_________
+Card o47:21 (0)_________
+Card o47:20 (0)_________
+Card o47:19 (0)_________
+Card o47:18 (0)_________
+Card o47:17 (0)_________
+Card o47:16 (0)_________
+Card o47:15 (0)_________
+Card o47:14 (0)_________
+Card o47:13 (0)_________
+Card o47:12 (0)_________
+Card o47:11 (0)_________
+Card o47:10 (0)_________
+Card o47:09 (0)_________
+Card o47:08 (0)_________
+Card o47:07 (0)_________
+Card o47:06 (0)_________
+Card o47:05 (0)_________
+Card o47:04 (0)_________
+Card o47:03 (0)_________
+Card o47:02 (0)_________
+Card o47:01 (0)_________
+
+Card # 48 Output (31)
+----------------------
+Card o48:24 (1)W-Signal 104 Yellow
+Card o48:23 (1)W-Signal 105 Yellow
+Card o48:22 (1)W-Signal 106 Yellow
+Card o48:21 (1)W-Signal 107 Yellow
+Card o48:20 (1)W-Signal 108 Yellow
+Card o48:19 (0)W-Signal 108 Red
+Card o48:18 (0)W-Signal 107 Red
+Card o48:17 (0)W-Signal 106 Red
+Card o48:16 (0)W-Signal 105 Red
+Card o48:15 (1)W-Signal 103 Yellow
+Card o48:14 (1)W-Signal 102 Yellow
+Card o48:13 (1)W-Signal 101 Yellow
+Card o48:12 (1)W-Signal 104 Green
+Card o48:11 (1)W-Signal 103 Green
+Card o48:10 (1)W-Signal 102 Green
+Card o48:09 (1)W-Signal 101 Green
+Card o48:08 (1)W-Signal 105 Green
+Card o48:07 (1)W-Signal 106 Green
+Card o48:06 (1)W-Signal 107 Green
+Card o48:05 (1)W-Signal 108 Green
+Card o48:04 (0)W-Signal 101 Red
+Card o48:03 (0)W-Signal 102 Red
+Card o48:02 (0)W-Signal 103 Red
+Card o48:01 (0)W-Signal 104 Red
+
+Card # 49 Output (32)
+----------------------
+Card o49:24 (1)W-Signal 112 Yellow
+Card o49:23 (1)W-Signal 113 Yellow
+Card o49:22 (1)W-Signal 114 Yellow
+Card o49:21 (1)W-Signal 115 Yellow
+Card o49:20 (1)W-Signal 116 Yellow
+Card o49:19 (0)W-Signal 116 Red
+Card o49:18 (0)W-Signal 115 Red
+Card o49:17 (0)W-Signal 114 Red
+Card o49:16 (0)W-Signal 113 Red
+Card o49:15 (1)W-Signal 111 Yellow
+Card o49:14 (1)W-Signal 110 Yellow
+Card o49:13 (1)W-Signal 109 Yellow
+Card o49:12 (1)W-Signal 112 Green
+Card o49:11 (1)W-Signal 111 Green
+Card o49:10 (1)W-Signal 110 Green
+Card o49:09 (1)W-Signal 109 Green
+Card o49:08 (1)W-Signal 113 Green
+Card o49:07 (1)W-Signal 114 Green
+Card o49:06 (1)W-Signal 115 Green
+Card o49:05 (1)W-Signal 116 Green
+Card o49:04 (0)W-Signal 109 Red
+Card o49:03 (0)W-Signal 110 Red
+Card o49:02 (0)W-Signal 111 Red
+Card o49:01 (0)W-Signal 112 Red
+
+Card # 50 Output (33)
+----------------------
+Card o50:24 (1)W-Signal 120 Yellow
+Card o50:23 (1)W-Signal 121 Yellow
+Card o50:22 (1)W-Signal 122 Yellow
+Card o50:21 (1)W-Signal 123 Yellow
+Card o50:20 (1)W-Signal 123 Yellow
+Card o50:19 (0)W-Signal 123 Red
+Card o50:18 (0)W-Signal 123 Red
+Card o50:17 (0)W-Signal 122 Red
+Card o50:16 (0)W-Signal 121 Red
+Card o50:15 (1)W-Signal 119 Yellow
+Card o50:14 (1)W-Signal 118 Yellow
+Card o50:13 (1)W-Signal 117 Yellow
+Card o50:12 (1)W-Signal 120 Green
+Card o50:11 (1)W-Signal 119 Green
+Card o50:10 (1)W-Signal 118 Green
+Card o50:09 (1)W-Signal 117 Green
+Card o50:08 (1)W-Signal 121 Green
+Card o50:07 (1)W-Signal 122 Green
+Card o50:06 (1)W-Signal 123 Green
+Card o50:05 (1)W-Signal 123 Green
+Card o50:04 (0)W-Signal 117 Red
+Card o50:03 (0)W-Signal 118 Red
+Card o50:02 (0)W-Signal 119 Red
+Card o50:01 (0)W-Signal 120 Red
+
+Card # 51 Output (34)
+----------------------
+Card o51:24 (1)E-Signal 204 Yellow
+Card o51:23 (1)E-Signal 205 Yellow
+Card o51:22 (1)E-Signal 206 Yellow
+Card o51:21 (1)E-Signal 207 Yellow
+Card o51:20 (1)E-Signal 208 Yellow
+Card o51:19 (0)E-Signal 208 Red
+Card o51:18 (0)E-Signal 207 Red
+Card o51:17 (0)E-Signal 206 Red
+Card o51:16 (0)E-Signal 205 Red
+Card o51:15 (1)E-Signal 203 Yellow
+Card o51:14 (1)E-Signal 202 Yellow
+Card o51:13 (1)E-Signal 201 Yellow
+Card o51:12 (1)E-Signal 204 Green
+Card o51:11 (1)E-Signal 203 Green
+Card o51:10 (1)E-Signal 202 Green
+Card o51:09 (1)E-Signal 201 Green
+Card o51:08 (1)E-Signal 205 Green
+Card o51:07 (1)E-Signal 206 Green
+Card o51:06 (1)E-Signal 207 Green
+Card o51:05 (1)E-Signal 208 Green
+Card o51:04 (0)E-Signal 201 Red
+Card o51:03 (0)E-Signal 202 Red
+Card o51:02 (0)E-Signal 203 Red
+Card o51:01 (0)E-Signal 204 Red
+
+Card # 52 Output (35)
+----------------------
+Card o52:24 (1)E-Signal 212 Yellow
+Card o52:23 (1)E-Signal 213 Yellow
+Card o52:22 (1)E-Signal 214 Yellow
+Card o52:21 (1)E-Signal 215 Yellow
+Card o52:20 (1)E-Signal 216 Yellow
+Card o52:19 (0)E-Signal 216 Red
+Card o52:18 (0)E-Signal 215 Red
+Card o52:17 (0)E-Signal 214 Red
+Card o52:16 (0)E-Signal 213 Red
+Card o52:15 (1)E-Signal 211 Yellow
+Card o52:14 (1)E-Signal 210 Yellow
+Card o52:13 (1)E-Signal 209 Yellow
+Card o52:12 (1)E-Signal 212 Green
+Card o52:11 (1)E-Signal 211 Green
+Card o52:10 (1)E-Signal 210 Green
+Card o52:09 (1)E-Signal 209 Green
+Card o52:08 (1)E-Signal 213 Green
+Card o52:07 (1)E-Signal 214 Green
+Card o52:06 (1)E-Signal 215 Green
+Card o52:05 (1)E-Signal 216 Green
+Card o52:04 (0)E-Signal 209 Red
+Card o52:03 (0)E-Signal 210 Red
+Card o52:02 (0)E-Signal 211 Red
+Card o52:01 (0)E-Signal 212 Red
+
+Card # 53 Output (36)
+----------------------
+Card o53:24 (1)E-Signal 220 Yellow
+Card o53:23 (1)E-Signal 221 Yellow
+Card o53:22 (1)E-Signal 222 Yellow
+Card o53:21 (1)E-Signal 223 Yellow
+Card o53:20 (1)E-Signal 223 Yellow
+Card o53:19 (0)E-Signal 223 Red
+Card o53:18 (0)E-Signal 223 Red
+Card o53:17 (0)E-Signal 222 Red
+Card o53:16 (0)E-Signal 221 Red
+Card o53:15 (1)E-Signal 219 Yellow
+Card o53:14 (1)E-Signal 218 Yellow
+Card o53:13 (1)E-Signal 217 Yellow
+Card o53:12 (1)E-Signal 220 Green
+Card o53:11 (1)E-Signal 219 Green
+Card o53:10 (1)E-Signal 218 Green
+Card o53:09 (1)E-Signal 217 Green
+Card o53:08 (1)E-Signal 221 Green
+Card o53:07 (1)E-Signal 222 Green
+Card o53:06 (1)E-Signal 223 Green
+Card o53:05 (1)E-Signal 223 Green
+Card o53:04 (0)E-Signal 217 Red
+Card o53:03 (0)E-Signal 218 Red
+Card o53:02 (0)E-Signal 219 Red
+Card o53:01 (0)E-Signal 220 Red
+
+Card # 54 Output (37)
+----------------------
+Card o54:24 (1)E-Signal 104 Yellow
+Card o54:23 (1)E-Signal 105 Yellow
+Card o54:22 (1)E-Signal 106 Yellow
+Card o54:21 (1)E-Signal 107 Yellow
+Card o54:20 (1)E-Signal 108 Yellow
+Card o54:19 (0)E-Signal 108 Red
+Card o54:18 (0)E-Signal 107 Red
+Card o54:17 (0)E-Signal 106 Red
+Card o54:16 (0)E-Signal 105 Red
+Card o54:15 (1)E-Signal 103 Yellow
+Card o54:14 (1)E-Signal 102 Yellow
+Card o54:13 (1)E-Signal 101 Yellow
+Card o54:12 (1)E-Signal 104 Green
+Card o54:11 (1)E-Signal 103 Green
+Card o54:10 (1)E-Signal 102 Green
+Card o54:09 (1)E-Signal 101 Green
+Card o54:08 (1)E-Signal 105 Green
+Card o54:07 (1)E-Signal 106 Green
+Card o54:06 (1)E-Signal 107 Green
+Card o54:05 (1)E-Signal 108 Green
+Card o54:04 (0)E-Signal 101 Red
+Card o54:03 (0)E-Signal 102 Red
+Card o54:02 (0)E-Signal 103 Red
+Card o54:01 (0)E-Signal 104 Red
+
+Card # 55 Output (38)
+----------------------
+Card o55:24 (1)E-Signal 112 Yellow
+Card o55:23 (1)E-Signal 113 Yellow
+Card o55:22 (1)E-Signal 114 Yellow
+Card o55:21 (1)E-Signal 115 Yellow
+Card o55:20 (1)E-Signal 116 Yellow
+Card o55:19 (0)E-Signal 116 Red
+Card o55:18 (0)E-Signal 115 Red
+Card o55:17 (0)E-Signal 114 Red
+Card o55:16 (0)E-Signal 113 Red
+Card o55:15 (1)E-Signal 111 Yellow
+Card o55:14 (1)E-Signal 110 Yellow
+Card o55:13 (1)E-Signal 109 Yellow
+Card o55:12 (1)E-Signal 112 Green
+Card o55:11 (1)E-Signal 111 Green
+Card o55:10 (1)E-Signal 110 Green
+Card o55:09 (1)E-Signal 109 Green
+Card o55:08 (1)E-Signal 113 Green
+Card o55:07 (1)E-Signal 114 Green
+Card o55:06 (1)E-Signal 115 Green
+Card o55:05 (1)E-Signal 116 Green
+Card o55:04 (0)E-Signal 109 Red
+Card o55:03 (0)E-Signal 110 Red
+Card o55:02 (0)E-Signal 111 Red
+Card o55:01 (0)E-Signal 112 Red
+
+Card # 56 Output (39)
+----------------------
+Card o56:24 (1)E-Signal 120 Yellow
+Card o56:23 (1)E-Signal 121 Yellow
+Card o56:22 (1)E-Signal 122 Yellow
+Card o56:21 (1)E-Signal 123 Yellow
+Card o56:20 (1)E-Signal 123 Yellow
+Card o56:19 (0)E-Signal 123 Red
+Card o56:18 (0)E-Signal 123 Red
+Card o56:17 (0)E-Signal 122 Red
+Card o56:16 (0)E-Signal 121 Red
+Card o56:15 (1)E-Signal 119 Yellow
+Card o56:14 (1)E-Signal 118 Yellow
+Card o56:13 (1)E-Signal 117 Yellow
+Card o56:12 (1)E-Signal 120 Green
+Card o56:11 (1)E-Signal 119 Green
+Card o56:10 (1)E-Signal 118 Green
+Card o56:09 (1)E-Signal 117 Green
+Card o56:08 (1)E-Signal 121 Green
+Card o56:07 (1)E-Signal 122 Green
+Card o56:06 (1)E-Signal 123 Green
+Card o56:05 (1)E-Signal 123 Green
+Card o56:04 (0)E-Signal 117 Red
+Card o56:03 (0)E-Signal 118 Red
+Card o56:02 (0)E-Signal 119 Red
+Card o56:01 (0)E-Signal 120 Red
+
+Card # 57 Output (40)
+----------------------
+Card o57:24 (1)W-Signal 204 Yellow
+Card o57:23 (1)W-Signal 205 Yellow
+Card o57:22 (1)W-Signal 206 Yellow
+Card o57:21 (1)W-Signal 207 Yellow
+Card o57:20 (1)W-Signal 208 Yellow
+Card o57:19 (0)W-Signal 208 Red
+Card o57:18 (0)W-Signal 207 Red
+Card o57:17 (0)W-Signal 206 Red
+Card o57:16 (0)W-Signal 205 Red
+Card o57:15 (1)W-Signal 203 Yellow
+Card o57:14 (1)W-Signal 202 Yellow
+Card o57:13 (1)W-Signal 201 Yellow
+Card o57:12 (1)W-Signal 204 Green
+Card o57:11 (1)W-Signal 203 Green
+Card o57:10 (1)W-Signal 202 Green
+Card o57:09 (1)W-Signal 201 Green
+Card o57:08 (1)W-Signal 205 Green
+Card o57:07 (1)W-Signal 206 Green
+Card o57:06 (1)W-Signal 207 Green
+Card o57:05 (1)W-Signal 208 Green
+Card o57:04 (0)W-Signal 201 Red
+Card o57:03 (0)W-Signal 202 Red
+Card o57:02 (0)W-Signal 203 Red
+Card o57:01 (0)W-Signal 204 Red
+
+Card # 58 Output (41)
+----------------------
+Card o58:24 (1)W-Signal 212 Yellow
+Card o58:23 (1)W-Signal 213 Yellow
+Card o58:22 (1)W-Signal 214 Yellow
+Card o58:21 (1)W-Signal 215 Yellow
+Card o58:20 (1)W-Signal 216 Yellow
+Card o58:19 (0)W-Signal 216 Red
+Card o58:18 (0)W-Signal 215 Red
+Card o58:17 (0)W-Signal 214 Red
+Card o58:16 (0)W-Signal 213 Red
+Card o58:15 (1)W-Signal 211 Yellow
+Card o58:14 (1)W-Signal 210 Yellow
+Card o58:13 (1)W-Signal 209 Yellow
+Card o58:12 (1)W-Signal 212 Green
+Card o58:11 (1)W-Signal 211 Green
+Card o58:10 (1)W-Signal 210 Green
+Card o58:09 (1)W-Signal 209 Green
+Card o58:08 (1)W-Signal 213 Green
+Card o58:07 (1)W-Signal 214 Green
+Card o58:06 (1)W-Signal 215 Green
+Card o58:05 (1)W-Signal 216 Green
+Card o58:04 (0)W-Signal 209 Red
+Card o58:03 (0)W-Signal 210 Red
+Card o58:02 (0)W-Signal 211 Red
+Card o58:01 (0)W-Signal 212 Red
+
+Card # 59 Output (42)
+----------------------
+Card o59:24 (1)W-Signal 220 Yellow
+Card o59:23 (1)W-Signal 221 Yellow
+Card o59:22 (1)W-Signal 222 Yellow
+Card o59:21 (1)W-Signal 223 Yellow
+Card o59:20 (1)W-Signal 223 Yellow
+Card o59:19 (0)W-Signal 223 Red
+Card o59:18 (0)W-Signal 223 Red
+Card o59:17 (0)W-Signal 222 Red
+Card o59:16 (0)W-Signal 221 Red
+Card o59:15 (1)W-Signal 219 Yellow
+Card o59:14 (1)W-Signal 218 Yellow
+Card o59:13 (1)W-Signal 217 Yellow
+Card o59:12 (1)W-Signal 220 Green
+Card o59:11 (1)W-Signal 219 Green
+Card o59:10 (1)W-Signal 218 Green
+Card o59:09 (1)W-Signal 217 Green
+Card o59:08 (1)W-Signal 221 Green
+Card o59:07 (1)W-Signal 222 Green
+Card o59:06 (1)W-Signal 223 Green
+Card o59:05 (1)W-Signal 223 Green
+Card o59:04 (0)W-Signal 217 Red
+Card o59:03 (0)W-Signal 218 Red
+Card o59:02 (0)W-Signal 219 Red
+Card o59:01 (0)W-Signal 220 Red
+
+Card # 60 Output (43)
+----------------------
+Card o60:24 (0)_________
+Card o60:23 (0)_________
+Card o60:22 (0)_________
+Card o60:21 (0)_________
+Card o60:20 (0)_________
+Card o60:19 (0)_________
+Card o60:18 (0)_________
+Card o60:17 (0)_________
+Card o60:16 (0)_________
+Card o60:15 (0)_________
+Card o60:14 (0)_________
+Card o60:13 (0)_________
+Card o60:12 (0)_________
+Card o60:11 (0)_________
+Card o60:10 (0)_________
+Card o60:09 (0)_________
+Card o60:08 (0)_________
+Card o60:07 (0)_________
+Card o60:06 (0)_________
+Card o60:05 (0)_________
+Card o60:04 (0)_________
+Card o60:03 (0)_________
+Card o60:02 (0)_________
+Card o60:01 (0)_________
+
+Card # 61 Output (44)
+----------------------
+Card o61:24 (0)W-Signal 401 Yellow
+Card o61:23 (0)_________
+Card o61:22 (0)_________
+Card o61:21 (0)_________
+Card o61:20 (0)_________
+Card o61:19 (0)_________
+Card o61:18 (0)_________
+Card o61:17 (0)_________
+Card o61:16 (0)_________
+Card o61:15 (0)_________
+Card o61:14 (0)_________
+Card o61:13 (0)E-Signal 401 Yellow
+Card o61:12 (0)W-Signal 401 Green
+Card o61:11 (0)_________
+Card o61:10 (0)_________
+Card o61:09 (0)E-Signal 401 Green
+Card o61:08 (0)_________
+Card o61:07 (0)_________
+Card o61:06 (0)_________
+Card o61:05 (0)_________
+Card o61:04 (0)E-Signal 401 Red
+Card o61:03 (0)_________
+Card o61:02 (0)_________
+Card o61:01 (0)W-Signal 401 Red
+
+Card # 62 Output (45)
+----------------------
+Card o62:24 (0)_________
+Card o62:23 (0)_________
+Card o62:22 (0)_________
+Card o62:21 (0)_________
+Card o62:20 (0)_________
+Card o62:19 (0)_________
+Card o62:18 (0)_________
+Card o62:17 (0)_________
+Card o62:16 (0)_________
+Card o62:15 (0)_________
+Card o62:14 (0)_________
+Card o62:13 (0)_________
+Card o62:12 (0)_________
+Card o62:11 (0)_________
+Card o62:10 (0)_________
+Card o62:09 (0)_________
+Card o62:08 (0)_________
+Card o62:07 (0)_________
+Card o62:06 (0)_________
+Card o62:05 (0)_________
+Card o62:04 (0)_________
+Card o62:03 (0)_________
+Card o62:02 (0)_________
+Card o62:01 (0)_________
+
+Card # 63 Output (46)
+----------------------
+Card o63:24 (0)_________
+Card o63:23 (0)_________
+Card o63:22 (0)_________
+Card o63:21 (0)_________
+Card o63:20 (0)_________
+Card o63:19 (0)_________
+Card o63:18 (0)_________
+Card o63:17 (0)_________
+Card o63:16 (0)_________
+Card o63:15 (0)_________
+Card o63:14 (0)_________
+Card o63:13 (0)_________
+Card o63:12 (0)_________
+Card o63:11 (0)_________
+Card o63:10 (0)_________
+Card o63:09 (0)_________
+Card o63:08 (0)_________
+Card o63:07 (0)_________
+Card o63:06 (0)_________
+Card o63:05 (0)_________
+Card o63:04 (0)_________
+Card o63:03 (0)_________
+Card o63:02 (0)_________
+Card o63:01 (0)_________
+

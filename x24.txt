@@ -1,0 +1,55 @@
+SBHRS						April 7, 2000 plocher
+
+	Mainline crossover	x24
+	Route	116 Eastbound to 215,
+	        215 Westbound to 116
+
+
+	---- 116n -+ +-n1--------------+ +------ 115n ----
+	                    \
+		             \
+	---- 116s -+ +-s1---- \--------+ +------ 115s ----
+	                    \  \F1
+	                     \  \
+	                    F2\  \
+	---- 216n -+ +---------\ ---n2-+ +------ 215n ----
+	                        \
+		                 \
+	---- 216s -+ +--------------s2-+ +------ 215s ----
+
+
+	       +-------+-------+-------+-------+-------+-------+
+	       | n1    | s1    | F1    | n2    | s2    | F2    |
+	-------+-------+-------+-------+-------+-------+-------+
+	Normal | 116n  | 116s  | 116s  | 216n  | 216s  | 216n  |
+	-------+-------+-------+-------+-------+-------+-------+
+	Diverg | 116n  | 116s  | 116n  | 116n  | 116s  | 116s  |
+	-------+-------+-------+-------+-------+-------+-------+
+
+
+	Wiring
+
+		Jumper	n1 to 116n
+			s1 to 116s
+
+		Switch Machine Contacts
+
+		Motor	1 - to tortoise
+		Normal	2 - 116s
+		Diverg	3 - 116n
+		Common	4 - F1
+		Common	5 - F2
+		Diverg	6 - 116s
+		Normal	7 - 216n
+		Motor	8 - to tortoise
+
+
+		Motor	1 - to tortoise
+		Normal	2 - 216n
+		Diverg	3 - 116n
+		Common	4 - n2
+		Common	5 - s2
+		Diverg	6 - 116s
+		Normal	7 - 216s
+		Motor	8 - to tortoise
+

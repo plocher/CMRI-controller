@@ -1,0 +1,62 @@
+South Bay Panel
+sb1	1	Turnout  1 White/Blue	Motor Control Output
+sb1	2	Turnout  1 White/Orange	Manual Override Feedback
+sb1	3	Turnout  2 Blue/White	Motor Control Output
+sb1	4	Turnout  2 Orange/White	Manual Override Feedback
+
+sb1	5	Turnout  3 White/Blue	Motor Control Output
+sb1	6	Turnout  3 White/Orange	Manual Override Feedback
+sb1	7	Turnout  4 Blue/White	Motor Control Output
+sb1	8	Turnout  4 Orange/White	Manual Override Feedback
+
+sb1	9	Turnout  5 White/Blue	Motor Control Output
+sb1	10	Turnout  5 White/Orange	Manual Override Feedback
+sb1	11	Turnout  6 Blue/White	Motor Control Output
+sb1	12	Turnout  6 Orange/White	Manual Override Feedback
+
+sb1	13	Turnout  7 White/Blue	Motor Control Output
+sb1	14	Turnout  7 White/Orange	Manual Override Feedback
+sb1	15	Turnout  8 Blue/White	Motor Control Output
+sb1	16	Turnout  8 Orange/White	Manual Override Feedback
+
+sb1	17	Turnout  9 White/Blue	Motor Control Output
+sb1	18	Turnout  9 White/Orange	Manual Override Feedback
+sb1	19	Turnout NC Blue/White	Motor Control Output
+sb1	20	Turnout NC Orange/White	Manual Override Feedback
+
+sb1	21	Turnout NC 		Motor Control Output
+sb1	22	Turnout NC 		Manual Override Feedback
+sb1	23	Turnout NC 		Motor Control Output
+sb1	24	Turnout NC 		Manual Override Feedback
+
+sb1	25	Turnout NC 		Motor Control Output
+sb1	26	Turnout NC 		Manual Override Feedback
+
+sb1	27	Turnout  1 White/Blue	Position Control Feedback
+sb1	28	Turnout  2 Blue/White	Position Control Feedback
+sb1	29	Turnout  3 White/Orange	Position Control Feedback
+sb1	30	Turnout  4 Orange/White	Position Control Feedback
+
+sb1	31	Turnout  5 White/Blue	Position Control Feedback
+sb1	32	Turnout  6 Blue/White	Position Control Feedback
+sb1	33	Turnout  7 White/Orange	Position Control Feedback
+sb1	34	Turnout  8 Orange/White	Position Control Feedback
+
+sb1	35	Turnout  9 		Position Control Feedback
+sb1	36	Turnout NC 		Position Control Feedback
+sb1	37	Turnout NC 		Position Control Feedback
+sb1	38	Turnout NC 		Position Control Feedback
+sb1	39	Turnout NC 		Position Control Feedback
+sb1	40	_____
+sb1	41	_____
+sb1	42	_____
+sb1	43	_____
+sb1	44	_____
+sb1	45	_____
+sb1	46	_____
+sb1	47	_____
+sb1	48	_____
+sb1	49	_____
+sb1	50	_____
+
+
